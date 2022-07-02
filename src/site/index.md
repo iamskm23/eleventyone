@@ -6,17 +6,19 @@ layout: layouts/base.njk
 
 
 ## This site is a starting point
+Work samples - 
 
-From this point we should already have:
+https://www.youtube.com/watch?v=8NzX-5Q4IMA&list=LL&index=13
 
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
-- A tiny CSS pipeline with PostCSS
-- A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
-- JS [search index](/search.json) generator
-- [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
-- Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
+https://www.youtube.com/watch?v=YAAagBGbE0w&list=LL&index=23
 
+https://www.youtube.com/watch?v=aMbxoXNU6WI&list=LL&index=28&t=85s
+
+https://www.youtube.com/watch?v=Z8OcsQisEyk&list=LL&index=38&t=80s
+
+https://www.youtube.com/watch?v=vttRzhF8HKQ&list=LL&index=48&t=466s
+
+https://www.youtube.com/watch?v=hORU3axxxuI&list=LL&index=49&t=508s
 
 
 ## Post pages
